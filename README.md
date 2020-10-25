@@ -32,7 +32,7 @@ import cv2
 ```
 we start with the RGB image having lane lines.
 
-![Figure](figures/lane.png)
+![Figure](figures/lane.PNG)
 
 ```python
 """
