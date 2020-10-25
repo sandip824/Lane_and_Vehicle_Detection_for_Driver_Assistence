@@ -31,6 +31,7 @@ import numpy as np
 import cv2
 ```
 we start with the RGB image having lane lines.
+
 ![Figure](figures/lane.png)
 
 ```python
