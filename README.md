@@ -119,7 +119,7 @@ overlay. complete = cv2.addWeighted(initial_img, alpha, line_image, beta, lambda
 ![Figure](figures/overlay.png)
 
 
-###2. Vehicle detection with HAAR cascade.
+### 2. Vehicle detection with HAAR cascade.
 The OpenCV Recognizer is trained using the GUI tool on all the data collected from the test data. 
 This is done directly by a specific OpenCV function. T
 For implimentation of the HAAR calssifier i have trained the classifier with the GUI tool developed by AMIN
@@ -139,9 +139,13 @@ make sure that you need to create two folders named 'P' and 'n' and keep all the
 ## Results.
 results images here with different scenaroes.
 ![Figure](figures/scene1.png)
+
 ![Figure](figures/scene2.png)
+
 ![Figure](figures/scene3.png)
+
 ![Figure](figures/scene4.png)
+
 ![Figure](figures/scene5.png)
 
 ## Challanges faced.
