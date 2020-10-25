@@ -18,8 +18,9 @@ pip install -r requirment.txt
 
 ## Implimentetion Steps
 
-This project is implimented in two distinct phases:
-###1. Lane Detection with OpenCv.
+This project is implimented in two distinct phases
+
+### 1.Lane Detection with OpenCv.
 The input to this system is video feed from the camera mounted on the fron t side of the back veiw mireor inside the cabin.
 step by stemp implimentation is given below.
 
