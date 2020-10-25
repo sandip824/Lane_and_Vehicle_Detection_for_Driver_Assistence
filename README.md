@@ -162,6 +162,6 @@ list down the challanges here
 ## Credits
 This project uses Open Source components. You can find the source code of their open source project along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
 
-Project: OpenCV-Face-Recognition https://github.com/Mjrovai/OpenCV-Face-Recognition
+Project: road_lane_line_detection   https://github.com/georgesung/road_lane_line_detection
 tutorial:hthttps://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0
 
