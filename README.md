@@ -135,19 +135,19 @@ if you dont want to train the classifier then you can use the cascade classifier
 
 make sure that you need to create two folders named 'P' and 'n' and keep all the positives and negative images in respective folder.
 
-![Figure](figures/haar_gui.png)
+![Figure](figures/haar_gui.PNG)
 
 ## Results.
 results images here with different scenaroes.
-![Figure](figures/scene1.png)
+![Figure](figures/scene1.PNG)
 
-![Figure](figures/scene2.png)
+![Figure](figures/scene2.PNG)
 
-![Figure](figures/scene3.png)
+![Figure](figures/scene3.PNG)
 
-![Figure](figures/scene4.png)
+![Figure](figures/scene4.PNG)
 
-![Figure](figures/scene5.png)
+![Figure](figures/scene5.PNG)
 
 ## Challanges faced.
 list down the challanges here
