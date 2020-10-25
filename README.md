@@ -1,7 +1,8 @@
+![Figure](figures/intro.PNG)
 # Lane_and_Vehicle_Detection_for_Driver_Assistence
 
-This project is implimented with “Open Source Computer Vision Library”, the OpenCV. The aim was to impliment real time simple lane detection and vehicle detection system with OpenCv Python for self driving cars.
-the lane detection system is a very basic yet very important system when we talk about driver assistance systems or self driving cars. Since 1990s threr have been lot of work 
+This project is implimented with “Open Source Computer Vision Library”, the OpenCV. The aim was to impliment real time simple lane detection and vehicle detection system with OpenCv Python.
+The lane detection system is a very basic yet very important system when we talk about driver assistance systems or self driving cars. Since 1990s threr have been lot of work 
 done on lane detction systems for various road conditions. like urban and rural roads,highways etc. The lane detection system can play a major role in the 
 driver assistance system. Adding vehicle detection ststem along with the lane detection system can significuntly improve the decision making capability of ADAS systems.
 by understanding the dynamics of the vehicles.Some of the applications of lane detection systems are 
