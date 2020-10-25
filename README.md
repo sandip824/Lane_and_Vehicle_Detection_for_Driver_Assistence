@@ -6,9 +6,10 @@ The lane detection system is a very basic yet very important system when we talk
 done on lane detction systems for various road conditions. like urban and rural roads,highways etc. The lane detection system can play a major role in the 
 driver assistance system. Adding vehicle detection ststem along with the lane detection system can significuntly improve the decision making capability of ADAS systems.
 by understanding the dynamics of the vehicles.Some of the applications of lane detection systems are 
-1.Lane keep assistance
-2.Lane departure warning
-3.Road vulnerability detection
+
+* Lane keep assistance.
+* Lane departure warning.
+* Road vulnerability detection
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages mentioned in requirment.txt.
