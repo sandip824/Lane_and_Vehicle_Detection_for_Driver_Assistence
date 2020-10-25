@@ -80,7 +80,7 @@ by averaging out the pixel values in a neighborhood.
 kernel_size = 5
 gauss_gray = gaussian_blur(mask_yw_image,kernel_size)
 ```
-![Figure](figures/gaussian_blur.png)
+
 
 ```python
 """
@@ -139,15 +139,20 @@ make sure that you need to create two folders named 'P' and 'n' and keep all the
 
 ## Results.
 results images here with different scenaroes.
-![Figure](figures/scene1.PNG)
+
+Scene1 the system properly detecting lane lines as well as vehicle.
 
 ![Figure](figures/scene2.PNG)
+![Figure](figures/scene4.PNG)
+![Figure](figures/scene5.PNG)
 
+
+Scene2 where HAAR classifier properly detecting the vehicle but the lane detection system detecting lane with cross edges this is because of the improper position of camera and roi change.
+
+![Figure](figures/scene1.PNG)
 ![Figure](figures/scene3.PNG)
 
-![Figure](figures/scene4.PNG)
 
-![Figure](figures/scene5.PNG)
 
 ## Challanges faced.
 list down the challanges here
